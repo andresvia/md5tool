@@ -1,6 +1,8 @@
 # md5tool
 Slurps STDIN and outputs MD5 checksum
 
+[ ![Download](https://api.bintray.com/packages/andresvia/tools/md5tool/images/download.svg) ](https://bintray.com/andresvia/tools/md5tool/snapshot/view#files)
+
 ## Intro
 
 How many times have you found yourself trying to parse different forms of
